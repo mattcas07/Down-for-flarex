@@ -1,0 +1,5 @@
+ClashRoyaleApi = () //aqui pondras tu api sin los paréntesis
+de https://developer.clashroyale.com/
+
+
+//cabe aclarar que una vez puestas las APIs, deberas cambiar el nombre del archivo a ".env"
